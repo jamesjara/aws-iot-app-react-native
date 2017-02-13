@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-459613939e5ca5ec1ea8441561085d9e1de7bd4a.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/IotApp/react-native-mqtt/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b83eb5d373c9d1982fbb9b9287a95d63d75a0ab">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-00eeb887241adf7b8af3ab2a0a288d68b06a70fb.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.54/1acdedeb89f1d950d67b73d481eb7736df65eedb/bcprov-jdk15on-1.54.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1acdedeb89f1d950d67b73d481eb7736df65eedb">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-1.54-bf7e9937078f426b4a139aef4a46d3aee11f4f22.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-76423fbd2a6b92d05478b6340725ec354ce16905.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-090ec5a489ae55d0a267b3d04b0f9ee10db0fc98.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-67178b43b40e9edee143aef71770fc9ca6c65f47.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-61317ede12103cd723b266cfd2824f556ff815be.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-424b79bd56db00a18a52e0b729e1757bc6b942ec.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-d1e99fa32118680a8287e5d289537de9888e8a02.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-2b71e5305b79652908890b48ebe0695f7571ace9.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-343c785be2fb1b211f854e846b2089e00c1ee377.jar" />
+    </item>
+    <item
+        jar="/opt/android/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-d0157c18ead804728d815b19aac6676b060ed212.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-93d82668838aafa73c8e044befb408c7822a88b3.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-b75114bbf5c26164d6348b4167e98a4c30db93de.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-8bee1513934e0039e460437609787731fdf4d4cb.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-3496be0789152a10ad6b3c3b54ceed9af05ea82e.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-5c727746038b3e1e013a17ff9e34f821612bb3bb.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-31c9f1bcef7890201732798649d3eaa8fb7ac836.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-156efe9d950b0116e73c06e1660920dd45f85317.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-1f17efb79e1fcc4478016d405dc3562cf53ef6ea.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-0067531d57d8f8a598628aec55a334cebf871ce4.jar" />
+    </item>
+    <item
+        jar="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/classes-e16a8ab925819cd600e743821bfbe6b67268785a.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-46b5679a6c9c23a5b34d686b65d8b148cd433ef3.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/asperger/dev/aws-iot-app-react-native/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+
+</items>
